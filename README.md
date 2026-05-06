@@ -144,6 +144,13 @@ All endpoints were tested using **Postman**. To test protected endpoints:
 2. Copy the JWT token from the response
 3. Add it to the request header: `Authorization: Bearer <token>`
 
+ ## 📖 API Documentation
+
+Interactive API docs available via Swagger UI:  
+🔗 [View Swagger UI](http://localhost:8080/swagger-ui/index.html)
+
+[![Swagger](https://img.shields.io/badge/API%20Docs-Swagger-green?logo=swagger)](https://your-deployed-app.com/swagger-ui.html)
+
 ---
 
 ## 📸 Pages Overview
